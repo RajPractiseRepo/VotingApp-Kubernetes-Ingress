@@ -6,7 +6,7 @@
 
 # Project Architecture:
 
-################################################################################################
+#######################################################################################
 
 
 This Project contains a secure, scalable deployment of a **microservices-based** voting application deployed on AWS, leveraging Kubernetes for container orchestration and Kops for cluster management. The app is configured with Kubernetes **NGINX Ingress** for efficient traffic routing and is secured with **SSL/TLS certificates**, ensuring data integrity and user privacy. **DNS management** is handled through **AWS Route 53**, providing reliable and low-latency access.
