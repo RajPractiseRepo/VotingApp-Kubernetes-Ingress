@@ -1,7 +1,8 @@
 # 🚀Deployment of a Kubernetes Voting Application with Ingress and SSL/TLS on AWS ☸🚢 🚀
 
 
-![proj-arch](https://github.com/user-attachments/assets/e5fb2ab2-b443-4bbe-9036-89d9f711e79e)
+![proj-architecture](https://github.com/user-attachments/assets/769d41e4-1e93-49fc-8093-1435617fb5b2)
+
 
 
 # Project Architecture:
